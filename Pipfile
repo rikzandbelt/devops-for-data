@@ -4,7 +4,7 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [requires]
-python_full_version = "3.9.9"
+python_full_version = "3.9.7"
 
 [packages]
 pyspark = ">=3.1.1"
